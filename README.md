@@ -1,7 +1,8 @@
 # Hi 👋 I'm Marine Petit
 
-🎓 PhD candidate in Psychology, Educational Sciences, and Speech and Language Therapy  
-🏛 Université libre de Bruxelles (ULB)
+🎓 PhD  in Psychology, Educational Sciences, and Speech and Language Therapy  
+🏛 Université de Lille
+👩🏼‍💻 Postdoctoral Researcher
 
 ## 🔬 Research Interests
 - Statistical learning
@@ -15,8 +16,7 @@
 - **Statistics:** GAMMs  
 - **Data:** EEG & behavioral data
 
-## 🧠 Current Project
-🔗 [BeLAS Project](https://www.belas.ulb.be/)
+
 
 ## 📫 Contact
-📧 marine.petit@ulb.be
+📧 marine.petit@ulb.be / marine.petit@univ-lille.fr
